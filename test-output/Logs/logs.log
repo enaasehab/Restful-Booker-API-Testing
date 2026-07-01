@@ -1,0 +1,170 @@
+[INFO] - [29-06-2026 03:51:46] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:51:46] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:51:47] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 03:51:47] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[ERROR] - [29-06-2026 03:51:54] [main] [com.restfulBooker.report.AllureReportGenerator] - Error copying history files Directory 'E:\ITI\automated api\Restful-Booker\test-output\full-report\history' does not exist.
+[ERROR] - [29-06-2026 03:51:55] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allure generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\full-report --clean Cannot run program "allure": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:51:55] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allure generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\reports --clean --single-file Cannot run program "allure": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:51:55] [main] [com.restfulBooker.utils.FileUtils] - Source 'E:\ITI\automated api\Restful-Booker\test-output\reports\index.html' does not exist
+[ERROR] - [29-06-2026 03:52:10] [main] [com.restfulBooker.utils.TerminalUtils] - Command failed with exit code: 1
+[INFO] - [29-06-2026 03:52:46] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:52:46] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:52:46] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 03:52:46] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[ERROR] - [29-06-2026 03:52:54] [main] [com.restfulBooker.report.AllureReportGenerator] - Error copying history files Directory 'E:\ITI\automated api\Restful-Booker\test-output\full-report\history' does not exist.
+[ERROR] - [29-06-2026 03:52:54] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allure generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\full-report --clean Cannot run program "allure": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:52:54] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allure generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\reports --clean --single-file Cannot run program "allure": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:52:54] [main] [com.restfulBooker.utils.FileUtils] - Source 'E:\ITI\automated api\Restful-Booker\test-output\reports\index.html' does not exist
+[INFO] - [29-06-2026 03:55:27] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:55:27] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:55:28] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 03:55:28] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[ERROR] - [29-06-2026 03:55:35] [main] [com.restfulBooker.report.AllureReportGenerator] - Error copying history files Directory 'E:\ITI\automated api\Restful-Booker\test-output\full-report\history' does not exist.
+[ERROR] - [29-06-2026 03:55:35] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allure generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\full-report --clean Cannot run program "allure": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:55:35] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allure generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\reports --clean --single-file Cannot run program "allure": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:55:35] [main] [com.restfulBooker.utils.FileUtils] - Source 'E:\ITI\automated api\Restful-Booker\test-output\reports\index.html' does not exist
+[ERROR] - [29-06-2026 03:57:47] [main] [com.restfulBooker.utils.TerminalUtils] - Command failed with exit code: 1
+[INFO] - [29-06-2026 03:59:15] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:59:15] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 03:59:15] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 03:59:16] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[ERROR] - [29-06-2026 03:59:24] [main] [com.restfulBooker.report.AllureReportGenerator] - Error copying history files Directory 'E:\ITI\automated api\Restful-Booker\test-output\full-report\history' does not exist.
+[ERROR] - [29-06-2026 03:59:24] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allurePath=C:\Users\Win11\.m2\repository\allure\allure-2.43.0\bin\allure.bat generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\full-report --clean Cannot run program "allurePath=C:\Users\Win11\.m2\repository\allure\allure-2.43.0\bin\allure.bat": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:59:24] [main] [com.restfulBooker.utils.TerminalUtils] - Failed to execute terminal command: allurePath=C:\Users\Win11\.m2\repository\allure\allure-2.43.0\bin\allure.bat generate E:\ITI\automated api\Restful-Booker\test-output\allure-results -o E:\ITI\automated api\Restful-Booker\test-output\reports --clean --single-file Cannot run program "allurePath=C:\Users\Win11\.m2\repository\allure\allure-2.43.0\bin\allure.bat": CreateProcess error=2, The system cannot find the file specified
+[ERROR] - [29-06-2026 03:59:24] [main] [com.restfulBooker.utils.FileUtils] - Source 'E:\ITI\automated api\Restful-Booker\test-output\reports\index.html' does not exist
+[ERROR] - [29-06-2026 03:59:43] [main] [com.restfulBooker.utils.TerminalUtils] - Command failed with exit code: 1
+[INFO] - [29-06-2026 04:06:27] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 04:06:27] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 04:06:27] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 04:06:28] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[ERROR] - [29-06-2026 04:06:35] [main] [com.restfulBooker.report.AllureReportGenerator] - Error copying history files Directory 'E:\ITI\automated api\Restful-Booker\test-output\full-report\history' does not exist.
+[INFO] - [29-06-2026 04:06:44] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_04-06-44.html".
+[INFO] - [29-06-2026 19:44:37] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 19:44:37] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 19:44:37] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 19:44:37] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 19:44:54] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_07-44-54.html".
+[INFO] - [29-06-2026 19:53:20] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 19:53:20] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 19:53:20] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 19:53:20] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 19:53:38] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_07-53-38.html".
+[INFO] - [29-06-2026 22:09:12] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:09:12] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:09:12] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 22:09:13] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 22:09:32] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_10-09-32.html".
+[INFO] - [29-06-2026 22:19:45] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:19:45] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:19:45] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 22:19:46] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 22:20:01] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_10-20-01.html".
+[INFO] - [29-06-2026 22:21:01] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:21:01] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:21:01] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 22:21:01] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 22:21:17] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_10-21-17.html".
+[INFO] - [29-06-2026 22:39:50] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:39:50] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:39:50] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 22:39:50] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 22:40:07] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_10-40-07.html".
+[INFO] - [29-06-2026 22:40:56] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:40:56] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:40:56] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 22:40:56] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 22:41:13] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_10-41-13.html".
+[INFO] - [29-06-2026 22:55:26] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:55:26] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 22:55:27] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 22:55:27] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 22:55:43] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_10-55-43.html".
+[INFO] - [29-06-2026 23:00:25] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:00:25] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:00:25] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 23:00:25] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 23:00:41] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_11-00-41.html".
+[INFO] - [29-06-2026 23:04:05] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:04:05] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:04:06] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 23:04:06] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 23:04:23] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_11-04-23.html".
+[INFO] - [29-06-2026 23:07:01] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:07:01] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:07:01] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 23:07:01] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 23:07:18] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_11-07-18.html".
+[INFO] - [29-06-2026 23:12:29] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:12:29] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:12:30] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 23:12:30] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 23:12:46] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_11-12-46.html".
+[INFO] - [29-06-2026 23:41:53] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:41:53] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:41:54] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 23:41:54] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 23:42:16] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_11-42-16.html".
+[INFO] - [29-06-2026 23:55:04] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:55:04] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [29-06-2026 23:55:04] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [29-06-2026 23:55:05] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Win11\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [29-06-2026 23:55:35] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-29_11-55-35.html".
+[INFO] - [30-06-2026 00:54:15] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 00:54:15] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 00:54:15] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [30-06-2026 00:54:26] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-30_12-54-26.html".
+[INFO] - [30-06-2026 00:54:27] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 00:54:27] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [30-06-2026 00:54:43] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-30_12-54-43.html".
+[INFO] - [30-06-2026 00:54:43] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 00:54:43] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [30-06-2026 00:54:56] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-30_12-54-56.html".
+[INFO] - [30-06-2026 00:54:56] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 00:54:56] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [30-06-2026 00:55:21] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-30_12-55-21.html".
+[INFO] - [30-06-2026 01:12:07] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 01:12:07] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-06-2026 01:12:08] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [30-06-2026 01:12:32] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-06-30_01-12-32.html".
+[INFO] - [01-07-2026 16:15:21] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [01-07-2026 16:15:21] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [01-07-2026 16:15:21] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [01-07-2026 16:15:37] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-07-01_04-15-37.html".
