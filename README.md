@@ -43,6 +43,9 @@ src/
 ├── DeleteBookingTests.java # TC_018 – TC_019
 ├── HealthCheckTests.java   # TC_020
 └── E2ETests.java           # TC_021 – TC_022
+```
+---
+
 ## Test Coverage
 | TC ID | Scenario | Category | Status |
 |-------|----------|----------|--------|
