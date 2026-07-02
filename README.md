@@ -21,7 +21,10 @@ A professional automated API testing framework built for the [Restful-Booker](ht
 | Jackson | JSON serialization/deserialization |
 | Log4j2 | Logging |
 
+---
+
 ## Project Structure
+```text
 src/
 ├── main/java/com/restfulBooker/
 │   ├── apisManager/
