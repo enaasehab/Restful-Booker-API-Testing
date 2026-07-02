@@ -116,5 +116,30 @@ public class BookingTest {
         assertThat(response.statusCode(), equalTo(400));
     }
 
+    @Test
+    @Owner("Samah Sameh")
+    @Story("Create Booking")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("Verify that creating a booking fails when totalprice is a negative boundary value")
+    @TmsLink("TC_API_011")
+    public void shouldNotCreateBookingWithNegativeTotalPrice() {
+        Booking booking = BookingSteps.getBookingWithNegativePrice();
+        Response response = BookingApi.createBooking(booking);
+        assertThat(response.statusCode(), equalTo(400));
+    }
+
+    @Test
+    @Owner("Samah Sameh")
+    @Story("Create Booking")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("Verify that creating a booking fails when checkout date is earlier than checkin date")
+    @TmsLink("TC_API_012")
+    public void shouldNotCreateBookingWhenCheckoutDateIsEarlierThanCheckinDate() {
+        Booking booking = BookingSteps.getBookingWithInvalidDates();
+        Response response = BookingApi.createBooking(booking);
+        assertThat(response.statusCode(), equalTo(400));
+    }
+
+
 
 }

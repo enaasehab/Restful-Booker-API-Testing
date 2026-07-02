@@ -77,5 +77,27 @@ public class BookingSteps {
                 .build();
     }
 
+    public static String gettToken() {
+        Response response = AuthApi.createToken(getValidAuthRequest());
+        return response.jsonPath().getString("token");
+    }
+
+    public static Booking getBookingWithInvalidDates() {
+        return Booking.builder()
+                .firstname(getProperty("valid.firstname"))
+                .lastname(getProperty("valid.lastname"))
+                .totalprice(Integer.parseInt(getProperty("valid.totalprice")))
+                .depositpaid(Boolean.parseBoolean(getProperty("valid.depositpaid")))
+                .bookingdates(
+                        BookingDates.builder()
+                                .checkin("2026-08-10")
+                                .checkout("2026-08-01")
+                                .build()
+                )
+                .additionalneeds(getProperty("valid.additionalneeds"))
+                .build();
+    }
+
+
 
 }

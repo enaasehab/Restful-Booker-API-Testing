@@ -168,3 +168,23 @@
 [INFO] - [01-07-2026 16:15:21] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
 [INFO] - [01-07-2026 16:15:21] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
 [INFO] - [01-07-2026 16:15:37] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "E:\ITI\automated api\Restful-Booker\test-output\reports\index.html", file was renamed to "AllureReport_2026-07-01_04-15-37.html".
+[INFO] - [02-07-2026 05:05:37] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [02-07-2026 05:05:37] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [02-07-2026 05:05:38] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [02-07-2026 05:05:39] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Sama7h\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [02-07-2026 05:06:59] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "D:\SoftwareTesting-iti\selenium\Project\Restful-Booker-API-Testing\test-output\reports\index.html", file was renamed to "AllureReport_2026-07-02_05-06-59.html".
+[INFO] - [02-07-2026 05:08:24] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [02-07-2026 05:08:24] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [02-07-2026 05:08:24] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [02-07-2026 05:08:24] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Sama7h\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+[INFO] - [02-07-2026 05:09:49] [main] [com.restfulBooker.utils.FileUtils] - Target File Path: "D:\SoftwareTesting-iti\selenium\Project\Restful-Booker-API-Testing\test-output\reports\index.html", file was renamed to "AllureReport_2026-07-02_05-09-49.html".
+[INFO] - [02-07-2026 05:11:33] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [02-07-2026 05:11:33] [main] [com.restfulBooker.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [02-07-2026 05:11:33] [main] [com.restfulBooker.report.AllureEnvironmentManager] - Allure Environment Variables Set.
+[INFO] - [02-07-2026 05:11:34] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Sama7h\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+

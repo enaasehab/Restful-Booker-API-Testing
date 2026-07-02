@@ -46,16 +46,6 @@ public class BookingApi {
                 .extract().response();
     }
 
-    public static Response deleteBooking(int id, String token) {
-        return Specs.getRequestSpec()
-                .cookie("token", token)
-                .when()
-                .delete(Routes.BOOKING_ROUTE + "/" + id)
-                .then()
-                .log().all()
-                .extract().response();
-    }
-
     public static Response getBookingsByName(String firstname, String lastname) {
         return Specs.getRequestSpec()
                 .queryParam("firstname", firstname)
@@ -73,6 +63,58 @@ public class BookingApi {
                 .then()
                 .log().all()
                 .extract().response();
+    }
+
+
+    public static Response PartiallyUpdateBooking(int id, Booking booking, String token) {
+        return Specs.getRequestSpec()
+                .cookie("token", token)
+                .body(booking)
+                .when()
+                .patch(Routes.BOOKING_ROUTE + "/" + id)
+                .then()
+                .log().all()
+                .extract().response();
+    }
+
+    public static Response updateBookingwithoutAuth(int id, Booking booking) {
+        return Specs.getRequestSpec()
+                .body(booking)
+                .when()
+                .put(Routes.BOOKING_ROUTE + "/" + id)
+                .then()
+                .log().all()
+                .extract().response();
+    }
+
+    public static Response deleteBooking(int id, String token) {
+        return Specs.getRequestSpec()
+                .cookie("token", token)
+                .when()
+                .delete(Routes.BOOKING_ROUTE + "/" + id)
+                .then()
+                .log().all()
+                .extract().response();
+    }
+
+    public static Response deleteBookingWithoutAuth(int id) {
+        return Specs.getRequestSpec()
+                .when()
+                .delete(Routes.BOOKING_ROUTE + "/" + id)
+                .then()
+                .log().all()
+                .extract().response();
+    }
+
+
+    public static Response healthCheck() {
+        return Specs.getRequestSpec()
+                .when()
+                .get(Routes.PING_ROUTE)
+                .then()
+                .log().all()
+                .extract()
+                .response();
     }
 
 }
